@@ -1,0 +1,6 @@
+README.md
+setup.py
+pyTennis.egg-info/PKG-INFO
+pyTennis.egg-info/SOURCES.txt
+pyTennis.egg-info/dependency_links.txt
+pyTennis.egg-info/top_level.txt

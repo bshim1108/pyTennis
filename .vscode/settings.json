@@ -1,0 +1,10 @@
+{
+    "python.pythonPath": "/Users/brandonshimiaie/Projects/pyTennis/venv/bin/python3.9",
+    "python.linting.pylintArgs": [
+        "--init-hook",
+        "import sys; sys.path.append('/Users/brandonshimiaie/Projects/pyTennis')",
+        "--max-line-length=130"
+    ],
+    "python.linting.enabled": true,
+    "jupyter.jupyterServerType": "local"
+}
